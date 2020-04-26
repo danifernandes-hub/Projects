@@ -5,3 +5,4 @@ Repository containing portfolio of data science projects completed by me for aca
 ## Contents
 
 - Data Analysis and Visualisation
+  - Python
