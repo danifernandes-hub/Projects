@@ -10,3 +10,7 @@ Repository containing portfolio of data science projects completed by me for aca
     - Average Developer Profile based on the Full Stack Developer Survey
   - SQL
     - Answering Business Questions using SQL
+    
+- Data Visualization
+  - Tableau
+    - Visualizing Investment landscape using Tableau
