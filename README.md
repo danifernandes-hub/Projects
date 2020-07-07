@@ -7,7 +7,7 @@ Repository containing portfolio of data science projects completed by me for aca
 - Exploratory Data Analysis
   - Python
     - Exhaustive analysis of Google Play Store data
-    - Average Developer Profile based on the Full Stack Developer Survey
+    - Average Developer Profile based on the Full Stack Developer Survey (In process)
   - SQL
     - Answering Business Questions using SQL
     
