@@ -14,5 +14,5 @@ Repository containing portfolio of data science projects completed by me for aca
 
 - Data Visualization
   - Python
-    - [Visualizing the impact of COVID-19 on retail sales in the United States](): Using Plotly and the data from the Census Bureau Monthly Retail Sales report, I visualize the effect of Covid-19 on sales
+    - [Visualizing the impact of COVID-19 on retail sales in the United States](https://github.com/danifernandes-hub/Projects/tree/master/Visualizing%20the%20effect%20of%20COVID-19%20on%20retail): Using Plotly and the data from the Census Bureau Monthly Retail Sales report, I visualize the effect of Covid-19 on sales
     
