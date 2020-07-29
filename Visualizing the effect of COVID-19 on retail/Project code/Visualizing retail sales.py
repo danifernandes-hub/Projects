@@ -1,3 +1,4 @@
+conda activate base
 #Basic data processing libraries
 import pandas as pd
 import numpy as np
